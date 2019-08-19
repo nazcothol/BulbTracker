@@ -19,7 +19,8 @@ there are a lot of really neat and new things that we can use to make our enviro
 __**Strengths of the web app**__
 * Simple account creation
   * Allows retrieval of data
-  * 
+  * Allows insights such as energy savings, equipment recommendations
+  * Allows aggregated global insights such as specific bulb life, popularity
 * Applies principles of ES2015+
 * Feeds remote data from a RESTful JSON API
 * State-driven, modular Single Page Application is lightweight and fast
