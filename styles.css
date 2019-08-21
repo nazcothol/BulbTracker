@@ -65,19 +65,7 @@ nav{
     background-color: #72afd3;
     text-decoration: none;
 }
-.dropdown ul {
-    background-color: powderblue;
-    display: none;
-    position: absolute;
-    padding: 8px;
-    border-radius: 0 0 10px 10px;
-}
 
-.dropdown:focus ul,
-.dropdown:hover ul {
-    display: flex;
-    flex-direction: column;
-}
 
 footer li {
 

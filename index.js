@@ -11,9 +11,9 @@ const router = new Navigo(location.origin);
 const store = {
     'home': {
         'links': {
-            'primary': [ 'Home', 'About', 'Contact', 'Blog' ]
+            'primary': [ 'Home', 'Track', 'Personal', 'Global', 'Guides', 'About']
         },
-        'title': 'Learnings',
+        'title': 'BulbTracker',
         'page': `
             <main>
 
@@ -29,25 +29,41 @@ const store = {
             </main>`
     },
 
-    'about': {
+    'track': {
         'links': {
-            'primary': [ 'Home', 'About', 'Contact', 'Blog' ]
+            'primary': [ 'Home', 'Track', 'Personal', 'Global', 'Guides', 'About']
         },
-        'title': 'About Page',
-        'page': ''
+        'title': 'Tracking',
+        'page': `
+        <main>
+            <section>
+
+
+            </section>
+        </main>
+        <p>Tracking?</p>
+        `
     },
-    'contact': {
+    'personal': {
         'links': {
-            'primary': [ 'Home', 'About', 'Contact', 'Blog' ]
+            'primary': [ 'Home', 'Track', 'Personal', 'Global', 'Guides', 'About']
         },
-        'title': 'Contact',
-        'page': ''
+        'title': 'Personal',
+        'page': `
+        <main>
+            <section>
+
+
+            </section>
+        </main>
+        <p>Personal?</p>
+        `
     },
-    'blog': {
+    'global': {
         'links': {
-            'primary': [ 'Home', 'About', 'Contact', 'Blog' ]
+            'primary': [ 'Home', 'Track', 'Personal', 'Global', 'Guides', 'About']
         },
-        'title': 'Blog Page',
+        'title': 'Global',
 
         'page': `
         <main>
@@ -56,7 +72,37 @@ const store = {
 
             </section>
         </main>
-        <p>Loading blog posts!</p>
+        <p>Global?</p>
+        `
+    },
+    'guides': {
+        'links': {
+            'primary': [ 'Home', 'Track', 'Personal', 'Global', 'Guides', 'About']
+        },
+        'title': 'Guides',
+        'page': `
+        <main>
+            <section>
+
+
+            </section>
+        </main>
+        <p>Guides?</p>
+        `
+    },
+    'about': {
+        'links': {
+            'primary': [ 'Home', 'Track', 'Personal', 'Global', 'Guides', 'About']
+        },
+        'title': 'About',
+        'page': `
+        <main>
+            <section>
+
+
+            </section>
+        </main>
+        <p>About?</p>
         `
     }
 };
