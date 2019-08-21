@@ -11,7 +11,7 @@ const router = new Navigo(location.origin);
 const store = {
     'home': {
         'links': {
-            'primary': [ 'Home', 'Track', 'Personal', 'Global', 'Guides', 'About']
+            'primary': [ 'Track', 'Personal', 'Global', 'Guides', 'About']
         },
         'title': 'BulbTracker',
         'page': `
@@ -31,7 +31,7 @@ const store = {
 
     'track': {
         'links': {
-            'primary': [ 'Home', 'Track', 'Personal', 'Global', 'Guides', 'About']
+            'primary': [ 'Home', 'Personal', 'Global', 'Guides', 'About']
         },
         'title': 'Tracking',
         'page': `
@@ -46,7 +46,7 @@ const store = {
     },
     'personal': {
         'links': {
-            'primary': [ 'Home', 'Track', 'Personal', 'Global', 'Guides', 'About']
+            'primary': [ 'Home', 'Track', 'Global', 'Guides', 'About']
         },
         'title': 'Personal',
         'page': `
@@ -61,7 +61,7 @@ const store = {
     },
     'global': {
         'links': {
-            'primary': [ 'Home', 'Track', 'Personal', 'Global', 'Guides', 'About']
+            'primary': [ 'Home', 'Track', 'Personal', 'Guides', 'About']
         },
         'title': 'Global',
 
@@ -77,7 +77,7 @@ const store = {
     },
     'guides': {
         'links': {
-            'primary': [ 'Home', 'Track', 'Personal', 'Global', 'Guides', 'About']
+            'primary': [ 'Home', 'Track', 'Personal', 'Global', 'About']
         },
         'title': 'Guides',
         'page': `
@@ -92,7 +92,7 @@ const store = {
     },
     'about': {
         'links': {
-            'primary': [ 'Home', 'Track', 'Personal', 'Global', 'Guides', 'About']
+            'primary': [ 'Home', 'Track', 'Personal', 'Global', 'Guides']
         },
         'title': 'About',
         'page': `
