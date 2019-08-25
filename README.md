@@ -28,4 +28,5 @@ __**Strengths of the web app**__
 
 ## User Flow [Right here](https://github.com/nazcothol/BulbTracker/blob/master/docs/bulbTrackerFlowchart.pdf "Some user flow diagrams")
 
-## Wireframes [Put it here](https://www.google.com "wireframes PDF link")
+## Mobile Wireframes [https://github.com/nazcothol/BulbTracker/blob/master/docs/Mobile%20Wireframes.pdf](https://www.google.com "wireframes PDF link")
+## Desktop Wireframes [Put it here](https://www.google.com "wireframes PDF link")
