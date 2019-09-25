@@ -16,6 +16,21 @@ const store = {
         'title': 'BulbTracker',
         'page': `
             <main>
+            <!-- new secion beginning-->
+
+            <body style="grid-row-gap: 0px; grid-column-gap: 0px; grid-gap: 0px;">
+                <nav style="    ;grid-area:nav;"></nav>
+                <header style="grid-area:head;">
+                    <div>
+                        <h1><img src="https://images.unsplash.com/photo-1534353341328-aede12f06b84?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjIwOTIyfQ" style="grid-area: 3 / 1 / 4 / 6;">BulbTracker</h1>
+                    </div>
+                </header>
+                <main style="grid-area:main;">
+                    <div></div>
+                </main>
+                <div class="pg-empty-placeholder" style="grid-area:ad;"></div>
+                <footer class="pg-empty-placeholder" style="grid-area:footer;"></footer>
+            <!-- new section end-->
 
             <section class="float">
                 <h2>Mission</h2>
