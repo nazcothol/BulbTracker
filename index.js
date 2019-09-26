@@ -21,8 +21,13 @@ const store = {
             <body style="grid-row-gap: 0px; grid-column-gap: 0px; grid-gap: 0px;">
                 <nav style="    ;grid-area:nav;"></nav>
                 <header style="grid-area:head;">
+                <section class="float">
+                    <h2>Mission</h2>
+                    <p>Text text</p>
+                <a href="#" class="cta-btn">Sign in</a>
+                </section>
                     <div>
-                        <h1><img src="https://images.unsplash.com/photo-1534353341328-aede12f06b84?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjIwOTIyfQ" style="grid-area: 3 / 1 / 4 / 6;">BulbTracker</h1>
+                        <h1>BulbTracker</h1>
                     </div>
                 </header>
                 <main style="grid-area:main;">
@@ -38,7 +43,7 @@ const store = {
             </section>
             <section>
                     <h2>Section 2</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut aliquid atque, impedit, distinctio exercitationem omnis esse hic quisquam magni quis fuga qui vel consequatur natus itaque iusto, fugit unde deserunt.</p>
+                    <p>Lorem ipsum dolor sit amet cons fuga.</p>
                     <a href="#" class="cta-btn">Read More!</a>
                 </section>
             </main>`
