@@ -19,31 +19,25 @@ const store = {
             <!-- new secion beginning-->
 
             <body style="grid-row-gap: 0px; grid-column-gap: 0px; grid-gap: 0px;">
-                <nav style="    ;grid-area:nav;"></nav>
-                <header style="grid-area:head;">
                 <section class="float">
-                    <h2>Mission</h2>
+                    <h2>Boxy 1</h2>
                     <p>Text text</p>
                 <a href="#" class="cta-btn">Sign in</a>
                 </section>
-                    <div>
-                        <h1>BulbTracker</h1>
-                    </div>
                 </header>
                 <main style="grid-area:main;">
-                    <div></div>
                 </main>
                 <div class="pg-empty-placeholder" style="grid-area:ad;"></div>
                 <footer class="pg-empty-placeholder" style="grid-area:footer;"></footer>
             <!-- new section end-->
 
             <section class="float">
-                <h2>Mission</h2>
-                <p>Content</a>
+                <h2>Box 2</h2>
+                <p>Content</p>
             </section>
-            <section>
-                    <h2>Section 2</h2>
-                    <p>Lorem ipsum dolor sit amet cons fuga.</p>
+            <section class="float">
+                    <h2>And box 3</h2>
+                    <p>Hello box 3</p>
                     <a href="#" class="cta-btn">Read More!</a>
                 </section>
             </main>`
