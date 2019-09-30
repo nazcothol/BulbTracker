@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="20px" viewBox="0 0 52 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>data-table/blocks/icons</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-XS-Copy" transform="translate(-301.000000, -246.000000)" stroke="#C1C7D0" stroke-width="2">
+            <g id="data-table/5/row-selected-" transform="translate(71.000000, 237.000000)">
+                <g id="data-table/5/row-odd-">
+                    <g id="data-table/5/row--">
+                        <g id="data-table/blocks/icons" transform="translate(231.000000, 10.000000)">
+                            <g id="icons/envelope/grey" stroke-linejoin="round">
+                                <path d="M10,0 C15.5228475,0 20,3.581722 20,8 C20,12.418278 15.5228475,16 10,16 C8.89022027,16 7.82266387,15.8553763 6.82517276,15.5884026 L2,18 L2.65310457,13.4272858 C1.00624125,12.0012036 0,10.0946099 0,8 C0,3.581722 4.4771525,0 10,0 Z" id="Combined-Shape"></path>
+                            </g>
+                            <g id="icons/ellypsis/grey" transform="translate(34.000000, 1.000000)" stroke-linecap="round">
+                                <path d="M16,8 L0,8" id="Path-2"></path>
+                                <path d="M8,0 L8,16" id="Path-2"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
