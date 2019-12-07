@@ -27,6 +27,6 @@
   "dependencies": {
     "navigo": "^7.1.2",
     "node": "^12.11.0",
-    "serialize-to-js": "^3.0.0"
+    "serialize-to-js": "^3.0.1"
   }
 }
